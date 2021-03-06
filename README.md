@@ -1,4 +1,4 @@
-# OpenRA
+# OpenRA中文注释版
 
 A Libre/Free Real Time Strategy game engine supporting early Westwood classics.
 
